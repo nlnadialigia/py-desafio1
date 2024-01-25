@@ -20,4 +20,3 @@ Nesse desafio desenvolveremos uma agenda para salvar, editar, deletar e marcar u
 ### Extra
 
 - Visualizar o contato
-- Validar as informações de telefone e email
